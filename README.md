@@ -1,6 +1,6 @@
 # twitterstream_HDFS
 Get tweets and append to json file in HDFS
 
-Input: melb, sydney, perth, ade, brisb
+Input: melb, syd, perth, ade, brisb
 
-Usage: sudo sbt "run sydney"
+Usage: sudo sbt "run syd"
